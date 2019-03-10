@@ -15,3 +15,8 @@ HM05 - https://codepen.io/frosina-marinoska/pen/JzRjXY;
 Boban: користи поописни имиња на променливи, наместо `eden` `dva` `frosina1`
 
 BONUS - https://codepen.io/frosina-marinoska/pen/pYEoam;
+
+HM06 - https://codepen.io/frosina-marinoska/pen/WmErqz;
+
+HM07 - https://codepen.io/frosina-marinoska/pen/RdZaRV;
+
